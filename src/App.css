@@ -1,0 +1,25 @@
+.redditPosts {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.postItem {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #eee;
+}
+
+.post-title {
+  max-width: 450px;
+}
+
+.img-thumb--alt,
+.img-thumb {
+  margin: 0 1rem;
+}
+
+.post-listing {
+  min-width: 500px;
+}
